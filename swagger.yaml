@@ -41,8 +41,8 @@ paths:
     get:
       tags:
       - "calc users"
-    summary: "Gets calc users from local database"
-    description: "---"
+      summary: "Gets calc users from local database"
+      description: "---"
       operationId: "----"
       produces:
       - "application/json"
