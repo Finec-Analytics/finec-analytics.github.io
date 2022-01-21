@@ -160,7 +160,7 @@ definitions:
       last_edited_by:
         type: "string"
   Users:
-      type: "object"
+    type: "object"
     properties:
       id:
         type: "integer"
